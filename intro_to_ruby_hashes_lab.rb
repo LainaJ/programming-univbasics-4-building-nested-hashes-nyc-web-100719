@@ -27,11 +27,11 @@ def monopoly_with_third_tier
 				:rent_three => 40,
 				:rent_four => 50
 			},
-				:names => {
-					:railroad_one => 1,
-					:railroad_two => 2,
-          :railroad_three => 3,
-          :railroad_four => 4
+			:names => {
+				:railroad_one => 1,
+				:railroad_two => 2,
+        :railroad_three => 3,
+        :railroad_four => 4
 				}
 			}
 	}
